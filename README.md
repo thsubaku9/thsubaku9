@@ -1,4 +1,19 @@
-## Hi there 👋
+# About Me
+
+- **🥸 Hobbyist Developer**  
+  I enjoy building things for fun and learning, especially in my free time.
+
+- **Favorite Languages**  
+  I primarily use Go and Python for most of my projects.
+
+- **🔭 Projects of Interest**  
+  I’m particularly interested in `Cantor-Mapping` and working on projects like `go-interpreter` and `go-beaver`.
+
+- **Thoughts on Hackathons**  
+  I’m not a fan of hackathons. The intense pace can lead to burnout, and I prefer a more sustainable approach to coding (maybe I’m just not an adrenaline junkie).
+
+- **Fun Fact**  
+  I am both ambidextrous and ambipedal!
 
 <!--
 **thsubaku9/thsubaku9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
